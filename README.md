@@ -1,10 +1,12 @@
-# To-do-list
+# To-do-list backend
 
-a todo list app makewith php.
+<p>Simple todo list API make with java. </p>
 
-###things##
-1. Sing-in form
-2. sing-up form
-3. add tasks menu
-4. task list
-5. complete tasks history
+
+#### Methods
+<ul>
+  <li>List itens</li>
+  <li>Create itens</li>
+  <li>Update itens</li>
+  <li>Delete itens</li>
+</ul>
