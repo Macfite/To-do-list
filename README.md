@@ -1,4 +1,4 @@
-# To-do-list backend
+# To-do list backend
 
 <p>Simple todo list API make with java. </p>
 
